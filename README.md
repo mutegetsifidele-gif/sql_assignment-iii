@@ -6,7 +6,7 @@
 - Student: 202510585
 - Business idea: A pharmacy tracks its suppliers, the medicines it stocks, and customer sales.
 - DBMS: PostgreSQL
-- Database name:`mutegetsi_fidele_202510787_pharmacy_system`
+- Database name:`mutegetsi_fidele_202510585_pharmacy_system`
 
  2. Database and Table Design
  Table        Purpose                              Primary key                 Foreign key
