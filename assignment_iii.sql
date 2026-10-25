@@ -5,7 +5,7 @@
 -- =====================================================
 -- SECTION 1: DATABASE CREATION
 -- =====================================================
-CREATE DATABASE mutegetsi_fidele_202510787_pharmacy_system;
+CREATE DATABASE mutegetsi_fidele_202510585_pharmacy_system;
 
 -- =====================================================
 -- SECTION 2: TABLE CREATION AND CONSTRAINTS
